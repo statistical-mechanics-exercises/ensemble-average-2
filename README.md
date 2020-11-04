@@ -8,7 +8,7 @@ In order to complete this exercise you are going to need to write a program to c
 
 This time, however, we are going to assume that the magnetic field strength is 0 and we are going to use a mean field model to describe the interaction between the spins.  The Hamiltonian will thus be:
 
-![](https://render.githubusercontent.com/render/math?math=-\sum_{i=1}^N\left[\frac{2D}{N}\sum_{j=1}^Ns_j\right]s_i)
+![](https://render.githubusercontent.com/render/math?math=E=-\sum_{i=1}^N\left[\frac{2D}{N}\sum_{j=1}^Ns_j\right]s_i)
 
 with ![](https://render.githubusercontent.com/render/math?math=D=2) and ![](https://render.githubusercontent.com/render/math?math=N=8).
 
